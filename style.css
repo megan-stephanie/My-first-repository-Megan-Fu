@@ -1,0 +1,15 @@
+h1 {
+  font-size: 3vw;
+  color: rgb(0,111,34);
+}
+
+h2 {
+  color: rgb(0,232,15);
+}
+
+body {
+  font-family: system-ui;
+  color: pink;
+  text-align: left;
+  background-color: rgb(97, 150, 235);
+}
